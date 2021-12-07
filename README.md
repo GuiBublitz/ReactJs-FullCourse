@@ -21,9 +21,8 @@
 # 3️⃣ Clubhouse Clone
 # 4️⃣ LinkedIn Clone
 
-## :rocket: Tecnologias
+## :rocket: This project was developed with the following technology :rocket:
 
-Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
