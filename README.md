@@ -1,6 +1,6 @@
 <h1 align="center">#React Full Course</h1>
 
-## Link: <a href="">click here to open the project in your browser</a>.
+## Project 1: <a href="https://guibublitz.github.io/ReactJs-FullCourse/tesla-clone/build">click here to open the project in your browser</a>.
 ### Learning ReactJS by building real projects! You can watch the <a href="https://www.youtube.com/watch?v=0mVbNp1ol_w">full course</a> for free on <a href="https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ">Clever Programmer channel</a> on<a href="https://www.youtube.com/"> Youtube</a>!
 
 
