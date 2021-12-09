@@ -1,10 +1,11 @@
 import React from 'react'
 import styled from 'styled-components'
+import ImgSlider from './imgSlider'
 
 function Home() {
     return (
         <Container>
-            
+            <ImgSlider/>
         </Container>
     )
 }
@@ -24,5 +25,6 @@ const Container = styled.main`
        left: 0;
        right: 0;
        bottom: 0;
+       z-index: -1;
    }
 `
