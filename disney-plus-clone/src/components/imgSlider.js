@@ -25,30 +25,11 @@ function ImgSlider() {
                 <img src="images/slider-badag.jpg"/>
             </Wrap>
             <Wrap>
-                <img src="images/slider-badging.jpg"/>
+                <img src="images/slider-scale.jpg"/>
             </Wrap>
             <Wrap>
-                <img src="images/slider-badging.jpg"/>
+                <img src="images/slider-scales.jpg"/>
             </Wrap>
-            <Wrap>
-                <img src="images/slider-badging.jpg"/>
-            </Wrap>
-            <Wrap>
-                <img src="images/slider-badging.jpg"/>
-            </Wrap>
-            <Wrap>
-                <img src="images/slider-badging.jpg"/>
-            </Wrap>
-            <Wrap>
-                <img src="images/slider-badging.jpg"/>
-            </Wrap>
-            <Wrap>
-                <img src="images/slider-badging.jpg"/>
-            </Wrap>
-            <Wrap>
-                <img src="images/slider-badging.jpg"/>
-            </Wrap>
-            
         </Carousel>
     )
 }
