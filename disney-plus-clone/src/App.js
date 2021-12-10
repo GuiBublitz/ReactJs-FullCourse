@@ -19,7 +19,7 @@ function App() {
         <Header />
         <Routes>
           <Route path="/detail" element={<Detail/>} />
-          <Route path="/" element={<Home />} />
+          <Route path="/ReactJs-FullCourse/disney-plus-clone/build/index" element={<Home />} />
           <Route path="/login" element={<Login/>} />
         </Routes>
       </Router>
