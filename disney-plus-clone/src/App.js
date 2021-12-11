@@ -18,9 +18,9 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route path="/detail" element={<Detail/>} />
+          <Route path="/ReactJs-FullCourse/disney-plus-clone/build/index/detail" element={<Detail/>} />
           <Route path="/ReactJs-FullCourse/disney-plus-clone/build/index" element={<Home />} />
-          <Route path="/login" element={<Login/>} />
+          <Route path="/ReactJs-FullCourse/disney-plus-clone/build/index/login" element={<Login/>} />
         </Routes>
       </Router>
     </div>
